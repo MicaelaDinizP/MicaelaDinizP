@@ -15,16 +15,16 @@ These projects show my passion for studying, building useful solutions, thorough
 ▫️ You can reach me through the following resources. I’m also tracking my learning topics on Trello and building playlists on my YouTube channel with helpful study materials to support my growth and learning journey.
 </p>
 <p align="center">
-  <a href="#" title="Gmail">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF8C42&color=CC6E35&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF4DD2&color=CC3EA8&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="#" title="Discord">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=7A3FFF&color=5E31CC&link=API-DO-SEU-DISCORD" alt="Discord"/></a>
-  <a href="#" title="YouTube">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=3D1A78&color=2E145A&link=API-DO-SEU-YOUTUBE" alt="YouTube"/></a>
-  <a href="#" title="Trello">
-    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&labelColor=1C2E6A&color=152456&link=API-DO-SEU-TRELLO" alt="Trello"/>
+  <a href="mailto:paes.dinizmicaela@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF8C42&color=CC6E35&link=mailto:paes.dinizmicaela@gmail.com" alt="Gmail"/></a>
+  <a href="www.linkedin.com/in/micaela-paes" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF4DD2&color=CC3EA8&link=www.linkedin.com/in/micaela-paes" alt="LinkedIn"/></a>
+  <a href="https://discord.com/users/mikkity._13819" title="Discord">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=7A3FFF&color=5E31CC&link=https://discord.com/users/mikkity._13819" alt="Discord"/></a>
+  <a href="https://www.youtube.com/@mikkitysdevlibrary" title="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=3D1A78&color=2E145A&link=https://www.youtube.com/@mikkitysdevlibrary" alt="YouTube"/></a>
+  <a href="https://trello.com" title="Trello">
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&labelColor=1C2E6A&color=152456&link=https://trello.com" alt="Trello"/>
   </a>
 </p>
 
